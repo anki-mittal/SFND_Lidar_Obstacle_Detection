@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/ankit/Documents/STUDY/sensor fusion/project 1/SFND_Lidar_Obstacle_Detection/src/environment.cpp
+thread
+-
 sensors/lidar.h
 /home/ankit/Documents/STUDY/sensor fusion/project 1/SFND_Lidar_Obstacle_Detection/src/sensors/lidar.h
 render/render.h
